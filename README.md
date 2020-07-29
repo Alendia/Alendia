@@ -1,4 +1,4 @@
-980--0### Hi there! I'm Alendia.
+### Hi there! I'm Alendia.
 
 <!--
 **Alendia/Alendia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
