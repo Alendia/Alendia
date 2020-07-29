@@ -1,4 +1,4 @@
-### Hi there! I'm Alendia.
+980--0### Hi there! I'm Alendia.
 
 <!--
 **Alendia/Alendia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✏Major in Industrial Design
-- 💻Currently learning `JavaScipt`
+- 💻Currently learning `JavaScript`
 - ✨Eager to learn more
