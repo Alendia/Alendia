@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ✏Major in Industrial Design
-- 💻Currently learning `JavaScript`
+- 💻Currently learning `JavaScript` and `Vue.js`
 - ✨Eager to learn more
