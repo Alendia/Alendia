@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻Currently learning `JavaScript` and `Vue.js`
+- 💻Currently learning `JavaScript`, `Vue.js` and `React`
 - ✨Eager to learn more
