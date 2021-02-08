@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - 💻Currently learning `JavaScript`, `Vue.js` and `React`
 - ✨Eager to learn more
+- 🔗Reading `Programming Language Foundations in Agda`
