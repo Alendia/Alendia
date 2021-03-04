@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 💻Currently learning `JavaScript`, `Vue.js` and `React`
 - 🔗Reading `Programming Language Foundations in Agda`
 - ✨Eager to learn more
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alendia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
