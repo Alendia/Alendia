@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻Currently learning `JavaScript`, `Vue.js` and `React`
-- 🔗Reading `Programming Language Foundations in Agda`
+- 💻Currently learning `JavaScript` and `React`
+- 🔗Reading *Programming Language Foundations in Agda*
+- 🔨Designing [a Wechat Mini Program](https://www.figma.com/file/3MgNS9YlNUAL586g5MR7AL/WeUI%E5%9F%BA%E7%A1%80%E6%A0%B7%E5%BC%8F%E5%BA%93?node-id=0%3A1), suggestions welcome
 - ✨Eager to learn more
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alendia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
