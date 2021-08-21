@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- - 🔨Designing [a Wechat Mini Program](https://www.figma.com/proto/3MgNS9YlNUAL586g5MR7AL/%E7%82%8A%E7%83%9F?page-id=839%3A0&node-id=839%3A1&viewport=245%2C304%2C0.08827821910381317&scaling=min-zoom) and implementing this design with `React` in Web (not Wechat Mini Program), suggestions welcome -->
-- 💻Currently learning algorithm, `React` and `Electron`
+- 💻Currently learning algorithm, `React`, `Electron` and TypeScript
 - 🔨Sometimes design for fun
 - ✨Eager to learn more
 
