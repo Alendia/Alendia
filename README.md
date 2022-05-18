@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🐈Sweet Cat Girl
 - 🔨Frontend Developer
+- 🔎Proficent in Web Accessbility
 - ✨Eager to learn more
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alendia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
